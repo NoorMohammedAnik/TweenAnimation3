@@ -37,6 +37,11 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
+
+
+
+
+
         txtAnimatedText.setOnLongClickListener(new View.OnLongClickListener() {
             @Override
             public boolean onLongClick(View v) {
